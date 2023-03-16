@@ -1,5 +1,5 @@
 # M2_projet_imagerie_computationnelle
-## Réseaux de Neuman pour la restauration d’image avec application aux images ultrasonore
+## Réseaux de Neumann pour la restauration d’image avec application aux images ultrasonore
 
 Notre projet qui s'est inspiré à partir d'un projet developpé 
 https://github.com/dgilton/neumann_networks_code  
