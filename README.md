@@ -16,7 +16,7 @@ Nous avons déjà ces données sur le Drive partagé si vous utilisez notre goog
 
 ## Comment ça marche
 - Avec google colab (https://drive.google.com/drive/folders/1XyiyQwervSAdEZfYqCOLD7hYI5Z6GKGJ?usp=sharing), nous avons 1 fichier qui fait le test 'gaussian_blur' avec des données de celeba, 2 fichiers pour le test 'gaussian_blur' et 'gaussian_blur_nonoise' avec des images ultrasonores.
-- Avec les codes en local, il faut télécharger les jeux de données au dessus et changer les paths qui se trouve dans les fichiers .py
+- Avec les codes en local, il faut télécharger les jeux de données au dessus et changer les paths qui se trouvent dans les fichiers .py
 
 ## Résultat/Train location
 - trained_model: qui contient les modèles entrainé en fichier .ckpt
