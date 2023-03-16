@@ -21,7 +21,7 @@ Nous avons déjà ces données sur le Drive partagé si vous utilisez notre goog
 ## Résultat/Train location
 - trained_model: qui contient les modèles entrainé en fichier .ckpt
 - result_test: qui contient l'image originale, l'image floutée et l'image de reconstruction pour chaque image entrée
-- ui_dataset : contient le dataset de Breast ultrasound image dataset
-- img_align_celeba = contient le dataset de celeb_a
+- ui_dataset: contient le dataset de Breast ultrasound image dataset
+- img_align_celeba: contient le dataset de celeb_a
 
 ## Explication du code
