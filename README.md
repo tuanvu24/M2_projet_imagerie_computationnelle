@@ -1,11 +1,12 @@
 # M2_projet_imagerie_computationnelle
 # Réseaux de Neuman pour la restauration d’image avec application aux images ultrasonore
 
-- Notre projet qui s'est inspiré à partir d'un projet developpé 
+- Notre projet qui s'est inspiré à partir d'un projet developpé
+ 
 https://github.com/dgilton/neumann_networks_code  
 https://github.com/dgilton/iterative_reconstruction_networks
 
-## Jeu de données
+### Jeu de données
 - Celeba dataset. Lien de téléchargement: 
 https://drive.google.com/drive/folders/0B7EVK8r0v71pTUZsaXdaSnZBZzg?resourcekey=0-rJlzl934LzC-Xp28GeIBzQ
 
